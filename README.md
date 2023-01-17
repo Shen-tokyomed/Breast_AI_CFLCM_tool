@@ -8,9 +8,6 @@ OS: Windows 10 or later
 ![image](https://user-images.githubusercontent.com/11002888/212855907-66bad2a3-0b61-47fe-92ab-cd7060b1c1d7.jpg)
 
 ## input data format
-![image](https://user-images.githubusercontent.com/11002888/212857053-4b7631cd-562f-46a3-826b-bdc9744d84b1.png)
-## output data explanation
-
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
@@ -220,3 +217,5 @@ Column No |  
 </body>
 
 </html>
+
+## output data explanation
