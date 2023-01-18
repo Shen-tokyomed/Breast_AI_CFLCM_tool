@@ -1,10 +1,19 @@
 # Breast_AI_tool
 
 ## System reqirement  
-OS: Windows 10 or later
+OS: Windows 10 or later  
 Version of MATLAB Runtime: R2016a  
 
 ## User manual
+1. Run `CFLCMMPS.exe`.
+2. Click Button ① to set input CSV files folder.
+3. Define the Nearest Neighborhood by pixels in Input Box ①. 
+4. Define the Circle Neighborhood by pixels in Input Box ②.
+5. Define the Processing Matrix Size by pixels in Input Box ③.
+6. Click Button ② to set processing intermediate files folder.
+7. Click Button ③ to set CFLCM result files folder.
+8. Click Start Button to start.
+
 ![image](https://user-images.githubusercontent.com/122850292/212982289-4c3aff80-4b9c-4119-ba33-19fb2c35348d.jpg)
 
 ## Input data format
