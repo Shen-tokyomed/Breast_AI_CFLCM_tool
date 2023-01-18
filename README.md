@@ -35,7 +35,7 @@ OS: Windows 10 or later
    </tr>
    <tr>
       <td>5</td>
-      <td>,ObjectNumber INTEGER,</td>
+      <td>ObjectNumber INTEGER,</td>
    </tr>
    <tr>
       <td>6</td>
