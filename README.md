@@ -125,7 +125,7 @@ Column No |  
 2 | Slide number of input file ;  Add for CellProfiler outputted file
 3 | Image Number of slides  ;    Add for CellProfiler outputted file
 4 | ImageNumber   INTEGER
-5 | ,ObjectNumber   INTEGER,
+5 | ObjectNumber   INTEGER,
 6 | Nuclei_Number_Object_Number   integer,
 7 | Nuclei_AreaShape_Area   float,
 8 | Nuclei_AreaShape_Center_X   float,
