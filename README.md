@@ -13,8 +13,7 @@ Version of MATLAB Runtime: R2016a
 6. Click Button ② to set processing intermediate files folder.
 7. Click Button ③ to set CFLCM result files folder.
 8. Click Start Button to start.
-
-![image](https://user-images.githubusercontent.com/122850292/212982289-4c3aff80-4b9c-4119-ba33-19fb2c35348d.jpg)
+![image](https://user-images.githubusercontent.com/122850292/213120472-138969cb-f840-4111-9343-2d611008de19.jpg)
 
 ## Input data format
 <table>
