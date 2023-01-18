@@ -1,13 +1,13 @@
 # Breast_AI_tool
 
-## system reqirement  
-version of MATLAB Runtime: R2016a  
+## System reqirement  
 OS: Windows 10 or later
+Version of MATLAB Runtime: R2016a  
 
-## user manual
+## User manual
 ![image](https://user-images.githubusercontent.com/122850292/212982289-4c3aff80-4b9c-4119-ba33-19fb2c35348d.jpg)
 
-## input data format
+## Input data format
 <table>
    <tr>
       <td></td>
@@ -31,7 +31,7 @@ OS: Windows 10 or later
    </tr>
    <tr>
       <td>4</td>
-      <td>ImageNumber INTEGER</td>
+      <td>ImageNumber INTEGER,</td>
    </tr>
    <tr>
       <td>5</td>
@@ -382,7 +382,7 @@ OS: Windows 10 or later
    </tr>
 </table>
 
-## output data explanation
+## Output data explanation
 <table>
    <tr>
       <td></td>
