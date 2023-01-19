@@ -1,4 +1,5 @@
 # Breast_AI_tool
+This tool, Cell Feature Level Co-occurrence Matrix (CFLCM), is designed for measure the morphological pleomorphism and heterogeneity quantitative on pathological whole slide image (WSI) analysis.
 
 ## System reqirement  
 OS: Windows 10 or later  
@@ -16,6 +17,8 @@ Version of MATLAB Runtime: R2016a
 ![image](https://user-images.githubusercontent.com/122850292/213120472-138969cb-f840-4111-9343-2d611008de19.jpg)
 
 ## Input data format
+The input data format is shown below.  
+Please refer `/sample/1.CSV`to confirm the input data sample.  
 <table>
    <tr>
       <td></td>
@@ -391,6 +394,8 @@ Version of MATLAB Runtime: R2016a
 </table>
 
 ## Output data explanation
+The output data format is shown below.  
+Please refer `/sample/1.xlsx`to confirm the output data sample.
 <table>
    <tr>
       <td></td>
