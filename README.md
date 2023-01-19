@@ -17,8 +17,20 @@ Version of MATLAB Runtime: R2016a
 ![image](https://user-images.githubusercontent.com/122850292/213120472-138969cb-f840-4111-9343-2d611008de19.jpg)
 
 ## Input data format
-The input data format is shown below.  
-Please refer `/sample/1.CSV`to confirm the input data sample.  
+The input data for this tool is CSV data output by Cellprofiler.  
+Please refer `/sample/1.CSV` to confirm the input data sample.  
+  
+*Addition information:  
+The recommended settings for the analysis modules of the pipeline of Cellprofiler is:
+1. LoadImages  
+2. ColorToGray  
+3. IndentifyPrimaryObjects  
+4. MeasureObjectSizeShape  
+5. MeasureTexture  
+6. MeasureObjectRadialDistribution  
+7. ExportToDatabase  
+
+The output format is shown below:
 <table>
    <tr>
       <td></td>
