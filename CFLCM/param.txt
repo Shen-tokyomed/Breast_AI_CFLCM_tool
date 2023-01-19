@@ -1,0 +1,1 @@
+60,300,32,D:\CFLCM\test\data,D:\CFLCM\test\data_im,D:\CFLCM\test\data_res
