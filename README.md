@@ -21,7 +21,7 @@ The input data for this tool is CSV data output by Cellprofiler.
 Please refer `/sample/1.CSV` to confirm the input data sample.  
   
 *Addition information:  
-The recommended settings for the analysis modules of the pipeline of Cellprofiler is:
+The settings for the analysis modules of the pipeline of Cellprofiler is required as below:
 1. LoadImages  
 2. ColorToGray  
 3. IndentifyPrimaryObjects  
