@@ -30,7 +30,7 @@ The settings for the analysis modules of the pipeline of Cellprofiler is require
 6. MeasureObjectRadialDistribution  
 7. ExportToDatabase  
 
-The iutput format is shown below:
+The input format is shown below:
 <table>
    <tr>
       <td></td>
